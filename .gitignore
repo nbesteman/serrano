@@ -1,0 +1,9 @@
+/build/*.png
+/build/*.txt
+/build/*.txt~
+/build/*.py~
+/source/*.csv
+/source/*.csv~
+/process/*.py~
+/process/*.txt~
+

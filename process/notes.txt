@@ -1,0 +1,11 @@
+need to run the following
+20 is next
+https://www.youtube.com/watch?v=kATm9miAlXo
+got to 9:00 but the color fill is messed up
+filler is at 4:15
+5_getstock.py which pulls the stock data
+15_add_SMA.py which runs the simple moving average
+	note that the SMA is set for 12 and 26 day located at lines:
+for stock in eachStock:
+    graphData(stock,12,26)
+    time.sleep(1)
